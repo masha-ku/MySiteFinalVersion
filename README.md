@@ -16,7 +16,8 @@
 Вот [его фото](https://photos.app.goo.gl/uM3PwV9XHxuVPERt8)
 
 Хотя лучше сразу покажу:
-!⁠[]​(https://github.com/masha-ku/MySiteMasha/blob/master/cat.jpg?raw=true)
+
+![](https://github.com/masha-ku/MySiteMasha/blob/master/cat.jpg) 
 
 А это моя почта для связи: <mashaikot@pochta.com>
 
